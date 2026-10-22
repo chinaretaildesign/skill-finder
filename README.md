@@ -33,7 +33,7 @@ Options: `--query`, `--topic`, `--min-stars`, `--limit`, `--fetch-readme OWNER/R
 User-level (available in all projects):
 
 ```bash
-git clone https://github.com/sammy1968-cn/skill-finder.git
+git clone https://github.com/chinaretaildesign/skill-finder.git
 cp -r skill-finder ~/.workbuddy/skills/skill-finder
 ```
 
